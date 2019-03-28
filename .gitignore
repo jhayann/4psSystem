@@ -1,0 +1,8 @@
+
+#ignore svg files
+
+*.svg
+*.scss
+*.less
+
+/scss
